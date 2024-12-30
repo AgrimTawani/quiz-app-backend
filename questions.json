@@ -1,0 +1,375 @@
+{
+    "math": [
+      {
+        "id": 1,
+        "question": "What is 5 + 3?",
+        "options": ["5", "8", "9", "7"],
+        "answer": "8"
+      },
+      {
+        "id": 2,
+        "question": "What is 10 - 4?",
+        "options": ["6", "7", "8", "5"],
+        "answer": "6"
+      },
+      {
+        "id": 3,
+        "question": "What is 3 * 6?",
+        "options": ["12", "18", "20", "16"],
+        "answer": "18"
+      },
+      {
+        "id": 4,
+        "question": "What is 12 / 4?",
+        "options": ["4", "3", "5", "2"],
+        "answer": "3"
+      },
+      {
+        "id": 5,
+        "question": "What is 7 * 9?",
+        "options": ["63", "56", "72", "63"],
+        "answer": "63"
+      },
+      {
+        "id": 6,
+        "question": "What is 100 / 5?",
+        "options": ["15", "20", "25", "18"],
+        "answer": "20"
+      },
+      {
+        "id": 7,
+        "question": "What is 8 + 12?",
+        "options": ["20", "18", "22", "19"],
+        "answer": "20"
+      },
+      {
+        "id": 8,
+        "question": "What is 9 - 4?",
+        "options": ["6", "5", "4", "7"],
+        "answer": "5"
+      },
+      {
+        "id": 9,
+        "question": "What is 8 * 7?",
+        "options": ["48", "56", "58", "50"],
+        "answer": "56"
+      },
+      {
+        "id": 10,
+        "question": "What is 14 + 9?",
+        "options": ["22", "23", "21", "20"],
+        "answer": "23"
+      }
+    ],
+    "science": [
+      {
+        "id": 1,
+        "question": "What is the chemical symbol for water?",
+        "options": ["O2", "H2O", "CO2", "H2"],
+        "answer": "H2O"
+      },
+      {
+        "id": 2,
+        "question": "What planet is known as the Red Planet?",
+        "options": ["Mars", "Venus", "Earth", "Jupiter"],
+        "answer": "Mars"
+      },
+      {
+        "id": 3,
+        "question": "What is the boiling point of water?",
+        "options": ["100°C", "90°C", "80°C", "70°C"],
+        "answer": "100°C"
+      },
+      {
+        "id": 4,
+        "question": "Who is known as the father of physics?",
+        "options": ["Einstein", "Newton", "Tesla", "Galileo"],
+        "answer": "Newton"
+      },
+      {
+        "id": 5,
+        "question": "What gas do plants absorb from the air?",
+        "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+        "answer": "Carbon Dioxide"
+      },
+      {
+        "id": 6,
+        "question": "What is the chemical formula for salt?",
+        "options": ["NaCl", "KCl", "CaCl2", "H2O"],
+        "answer": "NaCl"
+      },
+      {
+        "id": 7,
+        "question": "Which planet is closest to the Sun?",
+        "options": ["Mercury", "Venus", "Earth", "Mars"],
+        "answer": "Mercury"
+      },
+      {
+        "id": 8,
+        "question": "What is the process of plants making their food called?",
+        "options": ["Respiration", "Photosynthesis", "Transpiration", "Evaporation"],
+        "answer": "Photosynthesis"
+      },
+      {
+        "id": 9,
+        "question": "What is the largest mammal?",
+        "options": ["Elephant", "Blue Whale", "Shark", "Giraffe"],
+        "answer": "Blue Whale"
+      },
+      {
+        "id": 10,
+        "question": "What is the human body's largest organ?",
+        "options": ["Heart", "Brain", "Skin", "Lungs"],
+        "answer": "Skin"
+      }
+    ],
+    "art": [
+      {
+        "id": 1,
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
+        "answer": "Leonardo da Vinci"
+      },
+      {
+        "id": 2,
+        "question": "Which artist is famous for the Starry Night painting?",
+        "options": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Claude Monet"],
+        "answer": "Vincent van Gogh"
+      },
+      {
+        "id": 3,
+        "question": "What art movement is Picasso associated with?",
+        "options": ["Impressionism", "Cubism", "Surrealism", "Expressionism"],
+        "answer": "Cubism"
+      },
+      {
+        "id": 4,
+        "question": "What is the name of the famous painting of a scream by Edvard Munch?",
+        "options": ["The Scream", "The Cry", "The Yell", "The Shout"],
+        "answer": "The Scream"
+      },
+      {
+        "id": 5,
+        "question": "Which artist created the sculpture of David?",
+        "options": ["Michelangelo", "Donatello", "Raphael", "Leonardo da Vinci"],
+        "answer": "Michelangelo"
+      },
+      {
+        "id": 6,
+        "question": "Which artist is known for the water lilies series?",
+        "options": ["Pablo Picasso", "Claude Monet", "Vincent van Gogh", "Paul Cézanne"],
+        "answer": "Claude Monet"
+      },
+      {
+        "id": 7,
+        "question": "Which city is the Louvre Museum located in?",
+        "options": ["Paris", "Rome", "London", "New York"],
+        "answer": "Paris"
+      },
+      {
+        "id": 8,
+        "question": "Who painted the famous work, 'The Persistence of Memory'?",
+        "options": ["Salvador Dalí", "Pablo Picasso", "Henri Matisse", "Jackson Pollock"],
+        "answer": "Salvador Dalí"
+      },
+      {
+        "id": 9,
+        "question": "Which artist created the Sistine Chapel ceiling?",
+        "options": ["Vincent van Gogh", "Leonardo da Vinci", "Michelangelo", "Raphael"],
+        "answer": "Michelangelo"
+      },
+      {
+        "id": 10,
+        "question": "Who is the famous sculptor of The Thinker?",
+        "options": ["Auguste Rodin", "Pablo Picasso", "Salvador Dalí", "Claude Monet"],
+        "answer": "Auguste Rodin"
+      }
+    ],
+    "gk": [
+      {
+        "id": 1,
+        "question": "Who is known as the father of the nation in India?",
+        "options": ["Jawaharlal Nehru", "Mahatma Gandhi", "Subhas Chandra Bose", "Sardar Patel"],
+        "answer": "Mahatma Gandhi"
+      },
+      {
+        "id": 2,
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": ["China", "South Korea", "Japan", "Thailand"],
+        "answer": "Japan"
+      },
+      {
+        "id": 3,
+        "question": "Who was the first President of the United States?",
+        "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+        "answer": "George Washington"
+      },
+      {
+        "id": 4,
+        "question": "What is the largest country by area?",
+        "options": ["USA", "Russia", "China", "Canada"],
+        "answer": "Russia"
+      },
+      {
+        "id": 5,
+        "question": "In which year did the Titanic sink?",
+        "options": ["1910", "1912", "1915", "1920"],
+        "answer": "1912"
+      },
+      {
+        "id": 6,
+        "question": "Who invented the telephone?",
+        "options": ["Nikola Tesla", "Thomas Edison", "Alexander Graham Bell", "Michael Faraday"],
+        "answer": "Alexander Graham Bell"
+      },
+      {
+        "id": 7,
+        "question": "Which country is famous for the Eiffel Tower?",
+        "options": ["Italy", "France", "USA", "Germany"],
+        "answer": "France"
+      },
+      {
+        "id": 8,
+        "question": "Who discovered penicillin?",
+        "options": ["Louis Pasteur", "Marie Curie", "Alexander Fleming", "Albert Einstein"],
+        "answer": "Alexander Fleming"
+      },
+      {
+        "id": 9,
+        "question": "What is the longest river in the world?",
+        "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+        "answer": "Nile"
+      },
+      {
+        "id": 10,
+        "question": "Which continent is Australia in?",
+        "options": ["Africa", "Asia", "Australia", "Europe"],
+        "answer": "Australia"
+      }
+    ],
+    "music": [
+      {
+        "id": 1,
+        "question": "Who is known as the King of Pop?",
+        "options": ["Elvis Presley", "Michael Jackson", "John Lennon", "Freddie Mercury"],
+        "answer": "Michael Jackson"
+      },
+      {
+        "id": 2,
+        "question": "Which band is known for the song 'Hey Jude'?",
+        "options": ["The Beatles", "The Rolling Stones", "Queen", "The Beach Boys"],
+        "answer": "The Beatles"
+      },
+      {
+        "id": 3,
+        "question": "Which composer wrote 'Symphony No. 9'?",
+        "options": ["Beethoven", "Mozart", "Bach", "Chopin"],
+        "answer": "Beethoven"
+      },
+      {
+        "id": 4,
+        "question": "Who is the lead singer of U2?",
+        "options": ["Bono", "Elton John", "David Bowie", "Freddie Mercury"],
+        "answer": "Bono"
+      },
+      {
+        "id": 5,
+        "question": "Which singer is known as the Queen of Soul?",
+        "options": ["Aretha Franklin", "Whitney Houston", "Tina Turner", "Mariah Carey"],
+        "answer": "Aretha Franklin"
+      },
+      {
+        "id": 6,
+        "question": "Who composed the Four Seasons?",
+        "options": ["Ludwig van Beethoven", "Johann Sebastian Bach", "Antonio Vivaldi", "Wolfgang Amadeus Mozart"],
+        "answer": "Antonio Vivaldi"
+      },
+      {
+        "id": 7,
+        "question": "Which artist is known for the song 'Rolling in the Deep'?",
+        "options": ["Adele", "Taylor Swift", "Beyoncé", "Lady Gaga"],
+        "answer": "Adele"
+      },
+      {
+        "id": 8,
+        "question": "Which instrument does Yo-Yo Ma play?",
+        "options": ["Violin", "Cello", "Piano", "Guitar"],
+        "answer": "Cello"
+      },
+      {
+        "id": 9,
+        "question": "What genre of music did Elvis Presley popularize?",
+        "options": ["Jazz", "Rock and Roll", "Classical", "Pop"],
+        "answer": "Rock and Roll"
+      },
+      {
+        "id": 10,
+        "question": "Which country is the origin of the band ABBA?",
+        "options": ["USA", "UK", "Sweden", "Germany"],
+        "answer": "Sweden"
+      }
+    ],
+    "literature": [
+      {
+        "id": 1,
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "George Orwell"],
+        "answer": "William Shakespeare"
+      },
+      {
+        "id": 2,
+        "question": "What is the title of the first Harry Potter book?",
+        "options": ["The Philosopher's Stone", "The Chamber of Secrets", "The Goblet of Fire", "The Prisoner of Azkaban"],
+        "answer": "The Philosopher's Stone"
+      },
+      {
+        "id": 3,
+        "question": "Who wrote '1984'?",
+        "options": ["George Orwell", "Aldous Huxley", "Ernest Hemingway", "F. Scott Fitzgerald"],
+        "answer": "George Orwell"
+      },
+      {
+        "id": 4,
+        "question": "Who wrote 'Pride and Prejudice'?",
+        "options": ["Jane Austen", "Charlotte Brontë", "Emily Dickinson", "Virginia Woolf"],
+        "answer": "Jane Austen"
+      },
+      {
+        "id": 5,
+        "question": "Which novel features the character Atticus Finch?",
+        "options": ["Moby-Dick", "To Kill a Mockingbird", "The Great Gatsby", "The Catcher in the Rye"],
+        "answer": "To Kill a Mockingbird"
+      },
+      {
+        "id": 6,
+        "question": "Who wrote 'The Great Gatsby'?",
+        "options": ["F. Scott Fitzgerald", "Ernest Hemingway", "William Faulkner", "John Steinbeck"],
+        "answer": "F. Scott Fitzgerald"
+      },
+      {
+        "id": 7,
+        "question": "Which book begins with the line, 'Call me Ishmael'?",
+        "options": ["Moby-Dick", "The Old Man and the Sea", "Frankenstein", "Dracula"],
+        "answer": "Moby-Dick"
+      },
+      {
+        "id": 8,
+        "question": "Who wrote 'The Catcher in the Rye'?",
+        "options": ["J.D. Salinger", "John Steinbeck", "Ernest Hemingway", "George Orwell"],
+        "answer": "J.D. Salinger"
+      },
+      {
+        "id": 9,
+        "question": "Which author wrote 'The Hobbit'?",
+        "options": ["J.R.R. Tolkien", "C.S. Lewis", "George R.R. Martin", "J.K. Rowling"],
+        "answer": "J.R.R. Tolkien"
+      },
+      {
+        "id": 10,
+        "question": "Who is the author of 'Wuthering Heights'?",
+        "options": ["Charlotte Brontë", "Emily Brontë", "Anne Brontë", "Mary Shelley"],
+        "answer": "Emily Brontë"
+      }
+    ]
+  }
+  
